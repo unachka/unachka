@@ -1,10 +1,10 @@
-### Hi there, my name is Una and I am a Data Scientist with Finance background 👋
+## Hi there, my name is Una and I am a Data Scientist with Finance background 👋
 
 I am a lifelong learner
 
 I am currently working on<br />
-  Volunteering at Atlytics <br />
-  Consulting at Tangible AI as a Data Scientist<br />
+  Volunteering at Atlytics[https://atlytics.org/] <br />
+  Consulting at Tangible AI[https://tangibleai.com/] as a Data Scientist<br />
 
 I am currently learning<br />
   Data Engineering 
