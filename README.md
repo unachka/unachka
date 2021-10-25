@@ -14,7 +14,7 @@
 #### What I love to do in my free time
   * Travel :airplane:,:earth_americas:<br /> 
   * Learn new skills :computer: <br />
-  * Food lover and amatuer wine expert :wine_glass <br />
+  * Food lover and amatuer wine expert :wine_glass: <br />
  
 
 #### How to reach me: 📫
