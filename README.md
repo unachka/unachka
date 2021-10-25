@@ -6,9 +6,10 @@
   * Volunteer at [Atlytics](https://atlytics.org/) <br /> 
     * Helping Atlanta - based nonprofits with Analytics and Insight they need to fund their initiatives through data-driven projects
   * Consultant at [Tangible AI](https://tangibleai.com/) as a Data Scientist<br />
+    * Provide user engagement insights using chatbot conversations, responsible for creating a SQL query for catch all contents   
 
 #### I am currently learning<br />
-  * Data Engineering certificate :student:
+  * Data Engineering :student:
 
   
 #### What I love to do in my free time
