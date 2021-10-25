@@ -7,13 +7,13 @@
   * Consulting at [Tangible AI](https://tangibleai.com/) as a Data Scientist<br />
 
 #### I am currently learning<br />
-  * Data Engineering 
+  * Data Engineering :brain:,:muscle:,:student:
 
   
 #### What I love to do in my free time
   * Travel :airplane:,:earth_americas:<br /> 
-  * Learn new skills<br />
-  * Food lover and amatuer wine expert<br />
+  * Learn new skills :computer: <br />
+  * Food lover and amatuer wine expert :wine_glass <br />
  
 
 #### How to reach me: 📫
