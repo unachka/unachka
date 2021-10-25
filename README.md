@@ -4,7 +4,7 @@
 
 #### I am currently working on<br />
   * Volunteer at [Atlytics](https://atlytics.org/) <br /> 
-  @setting {font-size 50;}
+  @setting {font-size: 50;}
     * Helping Atlanta - based nonprofits with Analytics and Insight they need to fund their initiatives through data-driven projects
   * Consultant at [Tangible AI](https://tangibleai.com/) as a Data Scientist<br />
     * Provide user engagement insights using chatbot conversations<br />
