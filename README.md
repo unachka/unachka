@@ -3,7 +3,8 @@
 #### I am a lifelong learner
 
 #### I am currently working on<br />
-  * Volunteering at [Atlytics](https://atlytics.org/) <br />
+  * Volunteering at [Atlytics](https://atlytics.org/) <br /> 
+  ** Helping Atlanta - based nonprofits with Analytics and Insight they need to fund their initiatives through data-driven projects
   * Consulting at [Tangible AI](https://tangibleai.com/) as a Data Scientist<br />
 
 #### I am currently learning<br />
