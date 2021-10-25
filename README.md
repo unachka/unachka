@@ -6,7 +6,7 @@
   * Volunteer at [Atlytics](https://atlytics.org/) <br /> 
     * Helping Atlanta - based nonprofits with Analytics and Insight they need to fund their initiatives through data-driven projects
   * Consultant at [Tangible AI](https://tangibleai.com/) as a Data Scientist<br />
-    * Provide user engagement insights using chatbot conversations<br />
+    * Provide user engagement insights using chatbot conversations and create dynamic reports using Data Studio<br />
     * Responsible for creating SQL queries for catch all contents and provding insights   
 
 #### I am currently learning<br />
