@@ -17,7 +17,7 @@
   * Food lover and amatuer wine expert :wine_glass <br />
  
 
-#### How to reach me: 📫 :linkedin:
+#### How to reach me: 📫
 
 
 
