@@ -1,4 +1,6 @@
-### Hi there, my name is Una and I am a Data Scientist 👋
+### Hi there, my name is Una and I am a Data Scientist with Finance and Accounting background 👋
+
+I am a lifelong learner
 
 I am currently working on
   Volunteering at Atlytics
@@ -6,6 +8,7 @@ I am currently working on
 
 I am currently learning
   Data Engineering 
+
   
 What I love to do in my free time
   Travel
@@ -13,7 +16,7 @@ What I love to do in my free time
   Food lover and amatuer wine expert
  
 
-How to raech me: 📫
+How to reach me: 📫
 
 
 
