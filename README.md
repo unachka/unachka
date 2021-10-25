@@ -2,7 +2,7 @@
 
 I am a lifelong learner
 
-I am currently working on
+I am currently working on_
   Volunteering at Atlytics <br />
   Consulting at Tangible AI as a Data Scientist<br />
 
