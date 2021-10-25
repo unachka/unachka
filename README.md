@@ -1,6 +1,6 @@
 ## Hi there, my name is Una and I am a Data Scientist with Finance background 👋
 
-#### I am a lifelong learner
+#### I am a lifelong learner, Love working with numbers and data. 
 
 #### I am currently working on<br />
   * Volunteering at [Atlytics](https://atlytics.org/) <br /> 
