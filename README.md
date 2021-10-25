@@ -7,7 +7,7 @@
   * Consulting at [Tangible AI](https://tangibleai.com/) as a Data Scientist<br />
 
 #### I am currently learning<br />
-  * Data Engineering :brain:,:muscle:,:student:
+  * Data Engineering certificate :student:
 
   
 #### What I love to do in my free time
