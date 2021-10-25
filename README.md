@@ -11,7 +11,7 @@
 
   
 #### What I love to do in my free time
-  * Travel<br /> :airplane:,:earth_americas:
+  * Travel :airplane:,:earth_americas:<br /> 
   * Learn new skills<br />
   * Food lover and amatuer wine expert<br />
  
