@@ -1,18 +1,19 @@
 ### Hi there, my name is Una and I am a Data Scientist 👋
 
 I am currently working on
-  Volunteerin at Atlytics
+  Volunteering at Atlytics
   Consulting at Tangible AI as a Data Scientist
 
 I am currently learning
   Data Engineering 
+  
 What I love to do in my free time
   Travel
   Learn new skills
   Food lover and amatuer wine expert
  
 
-How to raech me: 
+How to raech me: 📫
 
 
 
