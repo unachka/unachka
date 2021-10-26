@@ -21,7 +21,7 @@
 
 #### How to reach me: 
 
-:link: https://www.linkedin.com/in/undrakhbayasgalan/
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/undrakhbayasgalan/)
 
 
 
