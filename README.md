@@ -19,9 +19,9 @@
   * Food lover and amatuer all things about wine :wine_glass: <br />
  
 
-#### How to reach me: 
+#### How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/undrakhbayasgalan/)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/undrakhbayasgalan/)
+
 
 
 
