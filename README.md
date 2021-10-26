@@ -19,7 +19,9 @@
   * Food lover and amatuer wine expert :wine_glass: <br />
  
 
-#### How to reach me: 📫
+#### How to reach me: 
+
+:link: https://www.linkedin.com/in/undrakhbayasgalan/
 
 
 
