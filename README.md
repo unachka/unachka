@@ -1,4 +1,4 @@
-## Hi there, my name is Una and I am a Data Scientist with Finance background 👋
+### Hi there, my name is Una and I am a Data Scientist with Finance background 👋
 
 #### I am a lifelong learner, Love working with numbers and data. 
 
